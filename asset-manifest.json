@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Ilia10101000/task-test.git/static/css/main.5b52d328.css",
+    "main.js": "/Ilia10101000/task-test.git/static/js/main.690831d9.js",
+    "static/media/pexels-alexandr-podvalny-1227513-min.jpeg": "/Ilia10101000/task-test.git/static/media/pexels-alexandr-podvalny-1227513-min.9c6cf0db28d7528e3654.jpeg",
+    "static/media/success-image.svg": "/Ilia10101000/task-test.git/static/media/success-image.0d3202ba11b04fa7364b0f83ce42aea5.svg",
+    "static/media/Logo.svg": "/Ilia10101000/task-test.git/static/media/Logo.8bb55362d01d55393ccc5476d96f0c14.svg",
+    "index.html": "/Ilia10101000/task-test.git/index.html",
+    "main.5b52d328.css.map": "/Ilia10101000/task-test.git/static/css/main.5b52d328.css.map",
+    "main.690831d9.js.map": "/Ilia10101000/task-test.git/static/js/main.690831d9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b52d328.css",
+    "static/js/main.690831d9.js"
+  ]
+}
